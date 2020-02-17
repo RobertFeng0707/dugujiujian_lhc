@@ -7,5 +7,8 @@ package atguigu.jianfa.dugujiujian;
 public class DuGu {
     public static void main(String[] args) {
         System.out.println("git hub learning!!!!");
+        System.out.println("git hub learning!!!!");
+        System.out.println("git hub learning!!!!");
+        System.out.println("git hub learning!!!!");
     }
 }
